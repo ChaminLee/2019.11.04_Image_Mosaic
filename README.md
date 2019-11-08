@@ -1,4 +1,4 @@
-# < 2019.11.08 Image_Mosaic >
+# < 2019.11.04 Image_Mosaic >
 
 ## MNIST 숫자 이미지로 시바견 그리기!
 
